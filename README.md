@@ -1,2 +1,0 @@
-# PingBot
-EvE ping bot
